@@ -1,0 +1,6 @@
+# List containers
+docker ps
+# Get the schedule container id
+docker exec -it {container_id} /bin/bash
+# Test the task
+airflow tasks test {dag_id} {task_id} get_source_data 2022-12-27
