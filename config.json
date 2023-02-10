@@ -1,0 +1,9 @@
+{
+"load_list" : [
+        ["source_a", "target_a"],
+        ["source_b", "target_b"],
+        ["source_c", "target_c"]
+],
+"dims" : ["dim_1", "dim_2", "dim_3"],
+"facts" : ["fact_1", "fact_2", "fact_3"]
+}
